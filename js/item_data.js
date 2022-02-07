@@ -286,6 +286,5 @@ const item_data = [
 		'text':'冬季でお洒落に着こなせるデニムコート。絞りつきでスマートなアイテムです',
 		'brand':'FFF',
 		'new':false,
-	},
 	}
 ]
