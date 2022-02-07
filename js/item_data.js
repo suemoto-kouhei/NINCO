@@ -287,31 +287,5 @@ const item_data = [
 		'brand':'FFF',
 		'new':false,
 	},
-	{
-		'id':33,
-		'name':'レザージャケット',
-		'category':'woman',
-		'price':4800,
-		'text':'バイク乗りの間で人気なロッキンレジャージャケット',
-		'brand':'FFF',
-		'new':false,
-	},
-	{
-		'id':34,
-		'name':'ワンピース',
-		'category':'woman',
-		'price':1000,
-		'text':'可愛い花柄の赤いワンピース！胸元もひらいていて、夏季などでも爽快感のあるアイテムです',
-		'brand':'CCC',
-		'new':false,
-	},
-	{
-		'id':35,
-		'name':'パーカー',
-		'category':'woman',
-		'price':5500,
-		'text':'タイトに着こなせるオレンジカラーのお洒落パーカー',
-		'brand':'AAA',
-		'new':false,
 	}
 ]
